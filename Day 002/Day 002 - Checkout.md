@@ -9,4 +9,4 @@ Our carefully selected palette combines soothing tones inspired by nature. Imagi
 ### Hierarchy
 I used the same typeface all throughout the page and established hierarchy by determining the font-weights' different purposes. Colors were used 
 ## Acknowledgments
-I took inspiration from Gumroad's checkout page and ![Douglass Lindauer](https://www.behance.net/gallery/189037829/Daily-UI-002-sheckout)'s work on the same challenge.
+I took inspiration from Gumroad's checkout page and [Douglass Lindauer](https://www.behance.net/gallery/189037829/Daily-UI-002-sheckout)'s work on the same challenge.
